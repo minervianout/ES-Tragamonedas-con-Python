@@ -5,3 +5,5 @@ Las librerías que he utilizado han sido:
 - Numpy
 - Os
 - Pandas
+
+[![Maquina-ejemplo.png](https://i.postimg.cc/3NzG4GVn/Maquina-ejemplo.png)](https://postimg.cc/XBcqtrVC)
