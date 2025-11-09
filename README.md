@@ -1,5 +1,6 @@
 # ES-Tragamonedas-con-Python
-Una simple maquina de tragamonedas usando Python y algunas de sus librerías.  Las librerías que he utilizado han sido:
+Una simple maquina de tragamonedas usando Python y algunas de sus librerías.  
+Las librerías que he utilizado han sido:
 - Time
 - Numpy
 - Os
